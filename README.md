@@ -14,7 +14,7 @@ This project utilizes advanced predictive modeling techniques to forecast food d
 ![Project Screenshot - Empty](./empty.png)
 ![Project Screenshot - Item Added](./item_added.png)
 ![Project Screenshot - Estimated Orders](./estimated_orders.png)
-![Project Screenshot - Estimated Ingredients](./estimated_ingredients.png)
+![Project Screenshot - Estimated Ingredients](./estimated_ingredient.png)
 
 ## How to Use
 
